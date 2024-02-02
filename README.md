@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-##<h2>Live Demo:</h2> <h3>[Results summary component]()</h3>
+##<h2>Live Demo:</h2> <h3>[Results summary component](https://hilla10.github.io/results-summary/)</h3>
 
 Thanks for checking out this front-end coding challenge.
 
