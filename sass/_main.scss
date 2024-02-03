@@ -4,8 +4,11 @@
     justify-content: center;
     align-items: center;
     background-color: $white;
-    margin-top: rem(130);
+    margin-top: rem(430);
 
+    @include breakpointUp(mobile) {
+        margin-top: rem(176);
+    }
     @include breakpointUp(tablet) {
         max-width: 737px;
         margin-top: 135px;
